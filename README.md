@@ -1,6 +1,6 @@
 # Ruby Store
 
-A modern Rails e-commerce application that allows users to browse products, manage their accounts, and subscribe to product notifications.
+A test Rails e-commerce application that allows users to browse products, manage their accounts, and subscribe to product notifications.
 
 ## Overview
 
