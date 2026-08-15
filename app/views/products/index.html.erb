@@ -3,7 +3,6 @@
 <%= link_to "New product", new_product_path if authenticated? %>
 <%= link_to "Login", new_session_path unless authenticated? %>
 
-
 <div id="products">
   <% @products.each do |product| %>
     <div>
